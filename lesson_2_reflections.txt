@@ -16,6 +16,10 @@ files concurrently exist in the working dir so you must use command
 >>> How can you use the staging area to make sure you have one commit per 
     logical change?
 
+By using "git add" to only add file changes desired.  Use "git diff" and 
+especially "git diff --staged" to verify changes before commit.
+
+
 >>> What are some situations when branches would be helpful in keeping your 
     history organized? How would branches help?
 
