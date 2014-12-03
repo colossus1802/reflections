@@ -28,13 +28,20 @@ should not be part of that release.  Bug fixes to older releases can be
 maintained with branches too.  Could also use a branch to try out a new set
 of adds but not including them in the master.
 
+
 >>> How do the diagrams help you visualize the branch structure?
 
 Graphically shows the tree-like structure of git commits and branches.
 
+
 >>> What is the result of merging two branches together? Why do we represent it
     in the diagram the way we do?
 
->>> What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+It combines all of the code changes from the two branches into one branch.  The
+merged code (node) is graphically represented as having two parents to show
+the source of the code changes for the merge.
+
+
+>>> What are the pros and cons of Git's automatic merging vs. always doing 
+    merges manually?
 
