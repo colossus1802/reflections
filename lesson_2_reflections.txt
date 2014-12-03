@@ -30,6 +30,8 @@ of adds but not including them in the master.
 
 >>> How do the diagrams help you visualize the branch structure?
 
+Graphically shows the tree-like structure of git commits and branches.
+
 >>> What is the result of merging two branches together? Why do we represent it
     in the diagram the way we do?
 
