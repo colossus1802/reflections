@@ -45,3 +45,5 @@ the source of the code changes for the merge.
 >>> What are the pros and cons of Git's automatic merging vs. always doing 
     merges manually?
 
+Automatic saves time and the algorithm is conservative so that changes that
+really need to be addresses are flagged as such.
