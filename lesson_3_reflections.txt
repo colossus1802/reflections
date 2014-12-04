@@ -23,7 +23,8 @@ been working on, that others may now access, use, and test.
 >>> What is the benefit of having a copy of the last known state of the remote
     stored locally?
 
-    Fill in your answer here
+    To know whether local and remote up-to-date or if local is ahead on commits
+    and to be able to see the diffs between them prior to a "git push".
 
 >>> How would you collaborate without using Git or GitHub?  What would be 
     easier, and what would be harder?
