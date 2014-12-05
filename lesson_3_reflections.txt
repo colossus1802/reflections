@@ -36,4 +36,10 @@ been working on, that others may now access, use, and test.
 >>> When would you want to make changes in a separate branch rather than 
     directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Almost all of the time you'll want to make changes on a branch.  
+    Keep your changes separate until they have been peer reviewed and unit 
+    tested then merge master into your branch and repeat unit tests.  Finally, 
+    merge your updated branch into master for all to use.  Making changes on
+    master should be limited to changes that are of an immediate need for all
+    to continue work on the master (e.g., changing a common, global system 
+    parameter that all need updated immediately).
