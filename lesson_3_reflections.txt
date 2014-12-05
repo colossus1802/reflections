@@ -29,7 +29,9 @@ been working on, that others may now access, use, and test.
 >>> How would you collaborate without using Git or GitHub?  What would be 
     easier, and what would be harder?
 
-    Fill in your answer here
+    You could use another source code control system like SVN or CVS.  GitHub
+    has built-in collaboration features that would help ease and track the 
+    effort.
 
 >>> When would you want to make changes in a separate branch rather than 
     directly in master?  What benefits does each approach have?
